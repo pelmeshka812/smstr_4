@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <root>
+        <name>Russia</name>
+        <type>COUNTRY</type>
+        <priority>1</priority>
+        <children>
+            <name>Tatarstan</name>
+            <type>DISTRICT</type>
+            <priority>1</priority>
+            <children>
+                <name>Kazan</name>
+                <type>CITY</type>
+                <priority>2</priority>
+            </children>
+            <children>
+                <name>Elabuga</name>
+                <type>CITY</type>
+                <priority>1</priority>
+                <children>
+                    <name>Raduznaya</name>
+                    <type>STREET</type>
+                    <priority>1</priority>
+                </children>
+            </children>
+        </children>
+    </root>
+</root>

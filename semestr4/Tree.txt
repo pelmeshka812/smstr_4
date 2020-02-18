@@ -1,0 +1,1 @@
+{"root":{"name":"Russia","type":"COUNTRY","priority":1,"children":[{"name":"Tatarstan","type":"DISTRICT","priority":1,"children":[{"name":"Kazan","type":"CITY","priority":2,"children":[]},{"name":"Elabuga","type":"CITY","priority":1,"children":[{"name":"Raduznaya","type":"STREET","priority":1,"children":[]}]}]}]}}

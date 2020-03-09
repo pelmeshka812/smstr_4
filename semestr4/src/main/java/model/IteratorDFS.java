@@ -1,7 +1,5 @@
 package model;
 
-import model.Node;
-
 import java.util.ArrayDeque;
 import java.util.Iterator;
 

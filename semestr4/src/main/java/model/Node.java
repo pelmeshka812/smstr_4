@@ -1,13 +1,11 @@
 package model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import org.omg.CORBA.PUBLIC_MEMBER;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlTransient;
-import java.lang.reflect.Type;
 import java.util.ArrayList;
 @JsonIgnoreProperties(value = {"parent"})
 @XmlAccessorType(XmlAccessType.FIELD)
